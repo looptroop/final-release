@@ -1,0 +1,112 @@
+﻿<Grade>=3
+<Num>=54
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери единицу времени.
+
+<EndText>
+<Choices>=3
+<Choice>=килограмм
+<Choice>=метр
+<Choice>=минута
+<Right>=3
+
+<Question>=
+Выбери единицы времени, которые расположены в порядке возрастания.
+
+<EndText>
+<Choices>=3
+<Choice>=час, минута, секунда
+<Choice>=секунда, минута, час
+<Choice>=минута, час, секунда
+<Right>=2
+
+<Question>=
+Сколько часов в 540 минутах?
+
+<EndText>
+<Choices>=3
+<Choice>=54 часа
+<Choice>=6 часов
+<Choice>=9 часов
+<Right>=3
+
+<Question>=
+Сколько секунд в 8 минутах?
+
+<EndText>
+<Choices>=3
+<Choice>=80 секунд
+<Choice>=4800 секунд
+<Choice>=480 секунд
+<Right>=3
+
+<Question>=
+На сколько 15 минут больше 15 секунд?
+
+<EndText>
+<Choices>=3
+<Choice>=на 135 секунд
+<Choice>=на 885 секунд
+<Choice>=на 1485 секунд
+<Right>=2
+
+<Question>=
+По какому правилу составлен ряд величин:
+20 ч 40 мин, 21 ч 30 мин, 22 ч 20 мин, 23 ч 10 мин, …?
+Выбери величину, которой нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=24 ч 50 мин
+<Choice>=24 ч
+<Choice>=24 ч 40 мин
+<Right>=2
+
+<Question>=
+Во сколько раз меньше 4 секунды, чем 2 минуты?
+
+<EndText>
+<Choices>=3
+<Choice>=в 30 раз
+<Choice>=в 50 раз
+<Choice>=в 5 раз
+<Right>=1
+
+<Question>=
+Выбери знак, пропущенный в записи:
+7 ч 16 мин … 6 ч 75 мин.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=<
+<Choice>=>
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+7 ч 10 мин – 2 ч 20 мин … 5 ч.
+
+<EndText>
+<Choices>=3
+<Choice>=<
+<Choice>=>
+<Choice>==
+<Right>=1
+
+<Question>=
+Часы показывают 6 ч 10 мин. Какое время они показывали полчаса назад?
+
+<EndText>
+<Choices>=3
+<Choice>=6 ч 45 мин
+<Choice>=5 ч 30 мин
+<Choice>=5 ч 40 мин
+<Right>=3

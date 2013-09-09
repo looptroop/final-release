@@ -1,0 +1,110 @@
+﻿<Grade>=3
+<Num>=55
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери единицу времени.
+
+<EndText>
+<Choices>=3
+<Choice>=сантиметр
+<Choice>=год
+<Choice>=квадратный дециметр
+<Right>=2
+
+<Question>=
+Сколько минут в 15 часах?
+
+<EndText>
+<Choices>=3
+<Choice>=1500 минут
+<Choice>=90 минут
+<Choice>=900 минут
+<Right>=3
+
+<Question>=
+Сколько часов в 7200 секундах?
+
+<EndText>
+<Choices>=3
+<Choice>=2 часа
+<Choice>=120 часов
+<Choice>=720 часов
+<Right>=1
+
+<Question>=
+Выбери единицы времени, расположенные в порядке убывания.
+
+<EndText>
+<Choices>=3
+<Choice>=год, день, неделя, месяц
+<Choice>=год, месяц, неделя, день
+<Choice>=день, неделя, месяц, год
+<Right>=2
+
+<Question>=
+Какое время показывали часы 20 минут назад, если сейчас на них 16 ч 12 мин?
+
+<EndText>
+<Choices>=3
+<Choice>=16 ч 32 мин
+<Choice>=15 ч 48 мин
+<Choice>=15 ч 52 мин
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+23 ч 80 мин + 4 ч 20 мин … 28 ч
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=<
+<Choice>=>
+<Right>=3
+
+<Question>=
+Выбери единицу времени, пропущенную в записи:
+190 … = 3 мин 10 … .
+
+<EndText>
+<Choices>=3
+<Choice>=мин
+<Choice>=с
+<Choice>=ч
+<Right>=2
+
+<Question>=
+Как записать 3660 секунд в часах и минутах?
+
+<EndText>
+<Choices>=3
+<Choice>=1 ч 1 мин
+<Choice>=6 ч 6 мин
+<Choice>=6 ч 1 мин
+<Right>=1
+
+<Question>=
+Выбери пару равных величин.
+
+<EndText>
+<Choices>=3
+<Choice>=9 ч 12 мин и 9 ч 120 с
+<Choice>=5 ч 20 мин и 320 мин
+<Choice>=7 ч 20 мин и 2 ч 70 мин
+<Right>=2
+
+<Question>=
+Во сколько раз 6 минут больше, чем 3 секунды?
+
+<EndText>
+<Choices>=3
+<Choice>=в 2 раза
+<Choice>=в 120 раз
+<Choice>=в 200 раз
+<Right>=2

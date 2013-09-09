@@ -1,0 +1,111 @@
+﻿<Grade>=2
+<Num>=2
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери сумму, значение которой равно 8.
+
+<EndText>
+<Choices>=3
+<Choice>=8 – 0
+<Choice>=5 + 3
+<Choice>=7 + 2
+<Right>=2
+
+<Question>=
+В какой паре выражения имеют одинаковые значения?
+
+<EndText>
+<Choices>=3
+<Choice>=8 – 2 и 8 – 3
+<Choice>=5 + 3 и 4 + 5
+<Choice>=6 + 3 и 3 + 6
+<Right>=3
+
+<Question>=
+Выбери число, пропущенное в записи:
+8 – … = 2
+
+<EndText>
+<Choices>=3
+<Choice>=4
+<Choice>=6
+<Choice>=5
+<Right>=2
+
+<Question>=
+Какие знаки арифметических действий пропущены в записи:
+7 + 2 … 1 = 6 … 2?
+
+<EndText>
+<Choices>=3
+<Choice>=–, –
+<Choice>=–, +
+<Choice>=+, +
+<Right>=2
+
+<Question>=
+Какой знак пропущен в записи:
+2 + 7 … 8 – 0?
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=<
+<Choice>=>
+<Right>=3
+
+<Question>=
+На сколько нужно увеличить число 2, чтобы получить 7?
+
+<EndText>
+<Choices>=3
+<Choice>=на 5 
+<Choice>=на 4
+<Choice>=на 6
+<Right>=1
+
+<Question>=
+Увеличь число 4 на 3. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=8
+<Choice>=7
+<Choice>=9
+<Right>=2
+
+<Question>=
+Выбери разность, значение которой равно 0.
+
+<EndText>
+<Choices>=3
+<Choice>=5 + 0
+<Choice>=5 – 0
+<Choice>=5 – 5
+<Right>=3
+
+<Question>=
+Уменьши число 8 на 4. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=4
+<Choice>=5
+<Choice>=3
+<Right>=1
+
+<Question>=
+На сколько нужно уменьшить число 6, чтобы получить 2?
+
+<EndText>
+<Choices>=3
+<Choice>=на 3
+<Choice>=на 5
+<Choice>=на 4
+<Right>=3

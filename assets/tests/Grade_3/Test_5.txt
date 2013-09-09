@@ -1,0 +1,111 @@
+﻿<Grade>=3
+<Num>=5
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери число, которое больше 689 на 1.
+
+<EndText>
+<Choices>=3
+<Choice>=700
+<Choice>=699
+<Choice>=690
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+9 сот. 3 дес. … 9 сот. 3 ед.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=>
+<Choice>=<
+<Right>=2
+
+<Question>=
+Какое самое маленькое трёхзначное число можно записать цифрами 8, 0, 4 (не повторяя цифр в записи числа)?
+
+<EndText>
+<Choices>=3
+<Choice>=048
+<Choice>=408
+<Choice>=480
+<Right>=2
+
+<Question>=
+Выбери число, в записи которого в разряде сотен и единиц использована одна и та же цифра.
+
+<EndText>
+<Choices>=3
+<Choice>=252
+<Choice>=336
+<Choice>=544
+<Right>=1
+
+<Question>=
+На сколько уменьшили число 392, если в его записи изменилась только цифра в разряде десятков?
+
+<EndText>
+<Choices>=3
+<Choice>=на 3
+<Choice>=на 21
+<Choice>=на 70
+<Right>=3
+
+<Question>=
+Наибольшее трёхзначное число уменьши на 1. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=999
+<Choice>=998
+<Choice>=99
+<Right>=2
+
+<Question>=
+Выбери наименьшее число.
+
+<EndText>
+<Choices>=3
+<Choice>=304
+<Choice>=430
+<Choice>=299
+<Right>=3
+
+<Question>=
+На сколько 9 сотен больше, чем 5 сотен?
+
+<EndText>
+<Choices>=3
+<Choice>=на 4 десятка
+<Choice>=на 5 сотен
+<Choice>=на 40 десятков
+<Right>=3
+
+<Question>=
+Выбери число, в котором 7 сотен и 3 десятка.
+
+<EndText>
+<Choices>=3
+<Choice>=703
+<Choice>=73
+<Choice>=730
+<Right>=3
+
+<Question>=
+Разгадай правило, по которому записан ряд чисел:
+777, 770, 760, 753, 743, … .
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=733
+<Choice>=736
+<Choice>=763
+<Right>=2

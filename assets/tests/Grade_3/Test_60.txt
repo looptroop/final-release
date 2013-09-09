@@ -1,0 +1,166 @@
+﻿<Grade>=3
+<Num>=60
+<Number>=15
+<ShowRight>=1
+<Mix>=1
+<Min3>=8
+<Min4>=11
+<Min5>=15
+
+<Question>=
+По какому правилу записан ряд чисел:
+54, 49, 52, 47, 50, 45, …?
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=40
+<Choice>=42
+<Choice>=48
+<Right>=3
+
+<Question>=
+Из 70 вычли разность чисел 35 и 15. Выбери выражение, которое нужно записать.
+
+<EndText>
+<Choices>=3
+<Choice>=70 – 35 – 15
+<Choice>=70 + 35 – 15
+<Choice>=70 – (35 – 15)
+<Right>=3
+
+<Question>=
+Выбери число, в котором 32 десятка и 4 единицы.
+
+<EndText>
+<Choices>=3
+<Choice>=3204
+<Choice>=324
+<Choice>=3240
+<Right>=2
+
+<Question>=
+Какое число пропущено в записи:
+88 – 56 : 8 + … = 83?
+
+<EndText>
+<Choices>=3
+<Choice>=79
+<Choice>=2
+<Choice>=51
+<Right>=2
+
+<Question>=
+Выбери знак арифметического действия, пропущенный в записи:
+7 · 8 … 7 · 4 = 28.
+
+<EndText>
+<Choices>=3
+<Choice>=+
+<Choice>=:
+<Choice>=–
+<Right>=3
+
+<Question>=
+Найди площадь прямоугольника, если его длина – 18 дм, а ширина в 9 раз меньше.
+
+<EndText>
+<Choices>=3
+<Choice>=36 дм2
+<Choice>=40 дм2
+<Choice>=54 дм2
+<Right>=1
+
+<Question>=
+На 56 рублей купили 2 кг моркови по 10 рублей и 6 кг картофеля. На сколько рублей картофель дешевле, чем морковь?
+
+<EndText>
+<Choices>=3
+<Choice>=на 16 рублей
+<Choice>=на 36 рублей
+<Choice>=на 4 рубля
+<Right>=3
+
+<Question>=
+На сколько произведение чисел 7 и 6 больше их разности?
+
+<EndText>
+<Choices>=3
+<Choice>=на 1
+<Choice>=на 41
+<Choice>=на 29
+<Right>=2
+
+<Question>=
+Частное чисел 32 и 4 увеличь в 10 раз. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=360
+<Choice>=80
+<Choice>=280
+<Right>=2
+
+<Question>=
+Карандаши разложили в коробки так, что в каждой оказалось
+72 : 9 карандашей. Сколько коробок занято карандашами?
+
+<EndText>
+<Choices>=3
+<Choice>=9 коробок
+<Choice>=8 коробок
+<Choice>=72 карандаша
+<Right>=1
+
+<Question>=
+Выбери делимое, пропущенное в записи:
+… : 4 = 4.
+
+<EndText>
+<Choices>=3
+<Choice>=15
+<Choice>=12
+<Choice>=16
+<Right>=3
+
+<Question>=
+Выбери выражение, в котором делимое равно нулю.
+
+<EndText>
+<Choices>=3
+<Choice>=42 · (6 – 6)
+<Choice>=(11 – 11) : 6
+<Choice>=15 : 5 – 0
+<Right>=2
+
+<Question>=
+Выбери выражение, значение которого равно 10.
+
+<EndText>
+<Choices>=3
+<Choice>=50 : 5 · 2 – 1
+<Choice>=50 : (5 · 2) – 1
+<Choice>=50 : 5 · (2 – 1)
+<Right>=3
+
+<Question>=
+Выбери слагаемое, пропущенное в записи:
+687002 = 600000 + … + 7000 + 2.
+
+<EndText>
+<Choices>=3
+<Choice>=800
+<Choice>=80000
+<Choice>=8000
+<Right>=2
+
+<Question>=
+Выбери число, пропущенное в записи:
+96 : 6 = 10 + … : 6.
+
+<EndText>
+<Choices>=3
+<Choice>=36
+<Choice>=30
+<Choice>=60
+<Right>=1

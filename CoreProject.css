@@ -1,0 +1,72 @@
+/* CSS file */
+
+.startButtonStyle
+{
+	up-skin: Embed("../assets/design/start_button.png");
+	down-skin: Embed("../assets/design/start_button_down.png");
+	over-skin: Embed("../assets/design/start_button.png");
+	disabled-skin: Embed("../assets/design/start_button.png");
+}
+
+.gotoFinalButtonStyle
+{
+	up-skin: Embed("../assets/design/your_result_button_up.png");
+	down-skin: Embed("../assets/design/your_result_button_down.png");
+	over-skin: Embed("../assets/design/your_result_button_up.png");
+	disabled-skin: Embed("../assets/design/your_result_button_up.png");
+}
+
+.leftArrowButtonStyle
+{
+	up-skin: Embed("../assets/design/arrow_left.png");
+	down-skin: Embed("../assets/design/arrow_left_down.png");
+	over-skin: Embed("../assets/design/arrow_left_over.png");
+	disabled-skin: Embed("../assets/design/arrow_left.png");
+}
+
+.rightArrowButtonStyle
+{
+	up-skin: Embed("../assets/design/arrow_right.png");
+	down-skin: Embed("../assets/design/arrow_right_down.png");
+	over-skin: Embed("../assets/design/arrow_right_over.png");
+	disabled-skin: Embed("../assets/design/arrow_right.png");
+}
+
+.questionButtonNotCurrentButtonStyle 
+{
+	up-skin: Embed("../assets/design/question_button_up.png");
+	down-skin: Embed("../assets/design/question_button_current.png");
+	over-skin: Embed("../assets/design/question_button_up.png");
+	disabled-skin: Embed("../assets/design/question_button_up.png");
+}
+
+.questionButtonCurrentButtonStyle 
+{
+	up-skin: Embed("../assets/design/question_button_current.png");
+	down-skin: Embed("../assets/design/question_button_current.png");
+	over-skin: Embed("../assets/design/question_button_current.png");
+	disabled-skin: Embed("../assets/design/question_button_current.png");
+}
+
+.answerButtonNotCurrentButtonStyle 
+{
+	up-skin: Embed("../assets/design/answer_button_up.png");
+	down-skin: Embed("../assets/design/answer_button_down.png");
+	over-skin: Embed("../assets/design/answer_button_up.png");
+	disabled-skin: Embed("../assets/design/answer_button_up.png");
+}
+
+.answerButtonPassedCurrentButtonStyle
+{
+	up-skin: Embed("../assets/design/answer_button_pressed.png");
+	down-skin: Embed("../assets/design/answer_button_pressed.png");
+	over-skin: Embed("../assets/design/answer_button_pressed.png");
+	disabled-skin: Embed("../assets/design/answer_button_pressed.png");
+}
+.questionButtonPassedButtonStyle 
+{
+	up-skin: Embed("../assets/design/question_button_passed.png");
+	down-skin: Embed("../assets/design/question_button_passed_down.png");
+	over-skin: Embed("../assets/design/question_button_passed.png");
+	disabled-skin: Embed("../assets/design/question_button_passed.png");
+}

@@ -1,0 +1,112 @@
+﻿<Grade>=2
+<Num>=20
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+На сколько 12 больше, чем 7?
+
+<EndText>
+<Choices>=3
+<Choice>=на 7
+<Choice>=на 5
+<Choice>=на 6
+<Right>=2
+
+<Question>=
+Выбери сумму, значение которой равно 17.
+
+<EndText>
+<Choices>=3
+<Choice>=5 + 7
+<Choice>=20 – 3
+<Choice>=8 + 9
+<Right>=3
+
+<Question>=
+Выбери вычитаемое, пропущенное в записи:
+11 – … = 7.
+
+<EndText>
+<Choices>=3
+<Choice>=3
+<Choice>=5
+<Choice>=4
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+5 + 9 … 14 – 5.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=<
+<Choice>=>
+<Right>=3
+
+<Question>=
+Разгадай правило, по которому составлен ряд чисел:
+16, 9, 13, 6, 10, … .
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=3
+<Choice>=5
+<Choice>=14
+<Right>=1
+
+<Question>=
+На сколько 6 меньше, чем 14?
+
+<EndText>
+<Choices>=3
+<Choice>=на 7
+<Choice>=на 6
+<Choice>=на 8
+<Right>=3
+
+<Question>=
+Выбери знаки арифметических действий, пропущенные в записи:
+11 – 5 … 3 = 17 … 8.
+
+<EndText>
+<Choices>=3
+<Choice>=–, –
+<Choice>=+, –
+<Choice>=+, +
+<Right>=2
+
+<Question>=
+Можно ли представить число 17 в виде суммы двух одинаковых слагаемых?
+
+<EndText>
+<Choices>=2
+<Choice>=да
+<Choice>=нет
+<Right>=2
+
+<Question>=
+Выбери второе слагаемое, если первое слагаемое равно 8, а значение суммы – 16.
+
+<EndText>
+<Choices>=3
+<Choice>=8
+<Choice>=9
+<Choice>=7
+<Right>=1
+
+<Question>=
+Из какого числа вычли 4, если получили 9?
+
+<EndText>
+<Choices>=3
+<Choice>=из 11
+<Choice>=из 12
+<Choice>=из 13
+<Right>=3

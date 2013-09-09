@@ -1,0 +1,114 @@
+﻿<Grade>=2
+<Num>=5
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Какое число предшествует числу 40?
+
+<EndText>
+<Choices>=3
+<Choice>=41
+<Choice>=59
+<Choice>=39
+<Right>=3
+
+<Question>=
+По какому правилу записаны числа:
+76, 77, 78, …, …, 81, 82?
+Какие два числа пропущены?
+
+<EndText>
+<Choices>=3
+<Choice>=79 и 83
+<Choice>=79 и 80
+<Choice>=75 и 80
+<Right>=2
+
+<Question>=
+По какому правилу записан ряд чисел:
+96, 94, 92, 90, …?
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=91
+<Choice>=88
+<Choice>=92
+<Right>=2
+
+<Question>=
+На сколько нужно увеличить число 35, чтобы в его записи изменилась только цифра в разряде единиц?
+
+<EndText>
+<Choices>=3
+<Choice>=на 5
+<Choice>=на 7
+<Choice>=на 4
+<Right>=3
+
+<Question>=
+Выбери запись числа 56 в виде суммы разрядных слагаемых.
+
+<EndText>
+<Choices>=3
+<Choice>=55 + 1
+<Choice>=50 – 6
+<Choice>=50 + 6
+<Right>=3
+
+<Question>=
+Выбери цифру, пропущенную в записи:
+7… = …7.
+
+<EndText>
+<Choices>=3
+<Choice>=6
+<Choice>=7
+<Choice>=8
+<Right>=2
+
+<Question>=
+Выбери цифру, которая пропущена в записи:
+…5 > 5… .
+
+<EndText>
+<Choices>=3
+<Choice>=6
+<Choice>=5
+<Choice>=4
+<Right>=1
+
+<Question>=
+Выбери наибольшее число.
+
+<EndText>
+<Choices>=3
+<Choice>=73
+<Choice>=77
+<Choice>=70
+<Right>=2
+
+<Question>=
+Выбери наименьшее число.
+
+<EndText>
+<Choices>=3
+<Choice>=56
+<Choice>=50
+<Choice>=60
+<Right>=2
+
+<Question>=
+На сколько нужно уменьшить число 68, чтобы в его записи изменилась только цифра в разряде десятков?
+
+<EndText>
+<Choices>=3
+<Choice>=на 8
+<Choice>=на 5
+<Choice>=на 10
+<Right>=3

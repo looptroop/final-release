@@ -1,0 +1,116 @@
+﻿<Grade>=2
+<Num>=29
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+На сколько уменьшили 68, если получили 59?
+
+<EndText>
+<Choices>=3
+<Choice>=на 10
+<Choice>=на 8
+<Choice>=на 9
+<Right>=3
+
+<Question>=
+Выбери слагаемое, пропущенное в записи:
+74 + … = 82.
+
+<EndText>
+<Choices>=3
+<Choice>=7
+<Choice>=8
+<Choice>=9
+<Right>=2
+
+<Question>=
+Даны выражения:
+72 + 20, 92 – 72, 0 + 72, 72 – 8.
+Найди значение выражения, в котором уменьшаемое равно 72.
+
+<EndText>
+<Choices>=3
+<Choice>=20
+<Choice>=92
+<Choice>=64
+<Right>=3
+
+<Question>=
+Увеличь 45 на 8. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=37
+<Choice>=53
+<Choice>=52
+<Right>=2
+
+<Question>=
+На сколько 6 меньше, чем 31?
+
+<EndText>
+<Choices>=3
+<Choice>=на 15
+<Choice>=на 25
+<Choice>=на 17
+<Right>=2
+
+<Question>=
+Увеличь 53 на 9. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=64
+<Choice>=44
+<Choice>=62
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+64 – 6 … 49 + 9.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=<
+<Choice>=>
+<Right>=1
+
+<Question>=
+По какому правилу записан ряд чисел:
+12, 19, 26, 33, 40, …?
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=43
+<Choice>=47
+<Choice>=46
+<Right>=2
+
+<Question>=
+Какое число надо вычесть из 44, чтобы получилось 38?
+
+<EndText>
+<Choices>=3
+<Choice>=10
+<Choice>=8
+<Choice>=6
+<Right>=3
+
+<Question>=
+Разгадай правило, по которому составлен ряд чисел:
+13, 23, 27, 37, 41, … .
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=45
+<Choice>=51
+<Choice>=61
+<Right>=2

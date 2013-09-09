@@ -1,0 +1,115 @@
+﻿<Grade>=3
+<Num>=20
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери знаки арифметических действий, пропущенные в записи:
+6 · 2 > 6 … 0 … 6.
+
+<EndText>
+<Choices>=3
+<Choice>=+, +
+<Choice>=–, +
+<Choice>=·, +
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+5 · 7 … 7 · 6 – 7.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=>
+<Choice>=<
+<Right>=1
+
+<Question>=
+Дано выражение:
+7 · 6 + 28.
+Выбери его значение.
+
+<EndText>
+<Choices>=3
+<Choice>=56
+<Choice>=70
+<Choice>=76
+<Right>=2
+
+<Question>=
+Выбери число, пропущенное в записи:
+(2 · 3) · … = 30.
+
+<EndText>
+<Choices>=3
+<Choice>=7
+<Choice>=6
+<Choice>=5
+<Right>=3
+
+<Question>=
+По какому правилу составлен ряд чисел:
+450, 400, 350, 300, 250, …?
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=300
+<Choice>=150
+<Choice>=200
+<Right>=3
+
+<Question>=
+Произведение чисел 20 и 3 увеличь в 8 раз. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=480
+<Choice>=400
+<Choice>=68
+<Right>=1
+
+<Question>=
+Выбери пару выражений, которые имеют одинаковые значения.
+
+<EndText>
+<Choices>=3
+<Choice>=7 + 3 · 10 и (7 + 2) · 10
+<Choice>=8 · 2 · 10 и 2 · 10 · 8
+<Choice>=5 · 6 · 7 и 6 · 7 · 8
+<Right>=2
+
+<Question>=
+Во сколько раз надо увеличить 54, чтобы получить 540?
+
+<EndText>
+<Choices>=3
+<Choice>=в 6 раз
+<Choice>=в 9 раз
+<Choice>=в 10 раз
+<Right>=3
+
+<Question>=
+Разность чисел 15 и 8 увеличь в 5 раз. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=28
+<Choice>=35
+<Choice>=12
+<Right>=2
+
+<Question>=
+Сумму чисел 8 и 7 умножь на разность этих же чисел. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=56
+<Choice>=30
+<Choice>=15
+<Right>=3

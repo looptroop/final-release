@@ -1,0 +1,115 @@
+﻿<Grade>=3
+<Num>=19
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери знак, пропущенный в записи:
+8 + 8 + 8 + 8 … 4 + 4 + 4 + 4 + 4 + 4 + 4 + 4.
+
+<EndText>
+<Choices>=3
+<Choice>=>
+<Choice>=<
+<Choice>==
+<Right>=3
+
+<Question>=
+Выбери знаки арифметических действий, пропущенные в записи:
+5 · 5 > 5 … 4 … 5.
+
+<EndText>
+<Choices>=3
+<Choice>=·, ·
+<Choice>=·, +
+<Choice>=·, –
+<Right>=3
+
+<Question>=
+Дано выражение:
+(14 – 6) · 5.
+Выбери его значение.
+
+<EndText>
+<Choices>=3
+<Choice>=40
+<Choice>=45
+<Choice>=30
+<Right>=1
+
+<Question>=
+Выбери число, пропущенное в записи:
+5 · (3 · …) = 45.
+
+<EndText>
+<Choices>=3
+<Choice>=2
+<Choice>=3
+<Choice>=4
+<Right>=2
+
+<Question>=
+По какому правилу составлен ряд чисел:
+20, 40, 60, 80, 100, 120, …?
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=130
+<Choice>=150
+<Choice>=140
+<Right>=3
+
+<Question>=
+Во сколько раз надо увеличить 3, чтобы получить 21?
+
+<EndText>
+<Choices>=3
+<Choice>=в 3 раза
+<Choice>=в 5 раз
+<Choice>=в 7 раз
+<Right>=3
+
+<Question>=
+На сколько произведение чисел 6 и 4 больше их суммы?
+
+<EndText>
+<Choices>=3
+<Choice>=на 20
+<Choice>=на 14
+<Choice>=на 4
+<Right>=2
+
+<Question>=
+Произведение чисел 5 и 5 умножь на разность этих же чисел. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=25
+<Choice>=250
+<Choice>=0
+<Right>=3
+
+<Question>=
+Какое число получится, если к сумме чисел 4 и 10 прибавить их произведение?
+
+<EndText>
+<Choices>=3
+<Choice>=54
+<Choice>=81
+<Choice>=20
+<Right>=1
+
+<Question>=
+Выбери число, которое увеличили в 10 раз и получили 710.
+
+<EndText>
+<Choices>=3
+<Choice>=7
+<Choice>=71
+<Choice>=710
+<Right>=2

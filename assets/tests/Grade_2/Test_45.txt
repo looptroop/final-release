@@ -1,0 +1,112 @@
+﻿<Grade>=2
+<Num>=45
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Уменьши 300 на 1. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=301
+<Choice>=299
+<Choice>=200
+<Right>=2
+
+<Question>=
+Как записать цифрами число триста пять?
+
+<EndText>
+<Choices>=3
+<Choice>=305
+<Choice>=350
+<Choice>=503
+<Right>=1
+
+<Question>=
+Выбери цифру, пропущенную в записи:
+…23 = 523.
+
+<EndText>
+<Choices>=3
+<Choice>=2
+<Choice>=3
+<Choice>=5
+<Right>=3
+
+<Question>=
+Выбери цифру, пропущенную в записи:
+3…… > 3…8.
+
+<EndText>
+<Choices>=3
+<Choice>=8
+<Choice>=9
+<Choice>=2
+<Right>=2
+
+<Question>=
+Найди наибольшее трёхзначное число, записанное цифрами 1, 6, 0 (цифры в записи числа не должны повторяться).
+
+<EndText>
+<Choices>=3
+<Choice>=106
+<Choice>=666
+<Choice>=610
+<Right>=3
+
+<Question>=
+На сколько нужно увеличить число 508, чтобы в его записи изменилась только цифра в разряде единиц?
+
+<EndText>
+<Choices>=3
+<Choice>=на 10
+<Choice>=на 2
+<Choice>=на 1
+<Right>=3
+
+<Question>=
+Разгадай правило, по которому составлен ряд чисел:
+705, 710, 715, 720, … .
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=825
+<Choice>=725
+<Choice>=730
+<Right>=2
+
+<Question>=
+Как записать цифрами 47 десятков?
+
+<EndText>
+<Choices>=3
+<Choice>=470
+<Choice>=407
+<Choice>=47
+<Right>=1
+
+<Question>=
+Какое наименьшее трёхзначное число можно записать цифрами 9, 4, 6 (цифры в записи числа не должны повторяться)?
+
+<EndText>
+<Choices>=3
+<Choice>=444
+<Choice>=469
+<Choice>=496
+<Right>=2
+
+<Question>=
+На сколько нужно уменьшить число 570, чтобы в его записи изменилась только цифра в разряде десятков?
+
+<EndText>
+<Choices>=3
+<Choice>=на 5 единиц
+<Choice>=на 5 десятков
+<Choice>=на 5 сотен
+<Right>=2

@@ -1,0 +1,114 @@
+﻿<Grade>=4
+<Num>=23
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери число, пропущенное в записи:
+8213 : 821 = … (ост. 3).
+
+<EndText>
+<Choices>=3
+<Choice>=1
+<Choice>=10
+<Choice>=100
+<Right>=2
+
+<Question>=
+Наибольшее пятизначное число уменьшили в 3 раза. На сколько полученное число меньше данного?
+
+<EndText>
+<Choices>=3
+<Choice>=на 33333
+<Choice>=на 6666
+<Choice>=на 66666
+<Right>=3
+
+<Question>=
+Сколько цифр в записи делимого:
+… : 5 = 35000?
+
+<EndText>
+<Choices>=3
+<Choice>=4 цифры
+<Choice>=5 цифр
+<Choice>=6 цифр
+<Right>=3
+
+<Question>=
+Какие разрядные единицы обозначает первое неполное делимое:
+72180 : 18 = 4010?
+
+<EndText>
+<Choices>=3
+<Choice>=тысячи
+<Choice>=сотни
+<Choice>=десятки
+<Right>=1
+
+<Question>=
+Во сколько раз 2163 больше 7?
+
+<EndText>
+<Choices>=3
+<Choice>=в 39 раз
+<Choice>=в 309 раз
+<Choice>=в 3009 раз
+<Right>=2
+
+<Question>=
+Верно ли равенство:
+6633 : 33 = 2211?
+
+<EndText>
+<Choices>=2
+<Choice>=да
+<Choice>=нет
+<Right>=2
+
+<Question>=
+Во сколько раз 22 меньше 8844?
+
+<EndText>
+<Choices>=3
+<Choice>=в 42 раза
+<Choice>=в 400 раз
+<Choice>=в 402 раза
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+24024 : 24 … 12012 : 12.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=>
+<Choice>=<
+<Right>=1
+
+<Question>=
+Какие разрядные единицы обозначает второе неполное делимое:
+412412 : 103?
+
+<EndText>
+<Choices>=3
+<Choice>=десятки тысяч
+<Choice>=тысячи
+<Choice>=сотни
+<Right>=3
+
+<Question>=
+Выбери число, пропущенное в записи:
+732832 : 732 = … (ост. 100).
+
+<EndText>
+<Choices>=3
+<Choice>=11
+<Choice>=1001
+<Choice>=101
+<Right>=2

@@ -1,0 +1,114 @@
+﻿<Grade>=3
+<Num>=39
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери число, в котором 23 сотни и 8 единиц.
+
+<EndText>
+<Choices>=3
+<Choice>=238
+<Choice>=2380
+<Choice>=2308
+<Right>=3
+
+<Question>=
+Сорок сотен уменьши в 10 раз. Выбери соответствующее равенство.
+
+<EndText>
+<Choices>=3
+<Choice>=400 : 10 = 40
+<Choice>=4000 : 40
+<Choice>=4000 : 10 = 400
+<Right>=3
+
+<Question>=
+Разгадай правило, по которому составлен ряд чисел:
+3, 18, 6, 36, 12, … .
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=27
+<Choice>=42
+<Choice>=72
+<Right>=3
+
+<Question>=
+Выбери цифру, пропущенную в записи:
+5043 > …043.
+
+<EndText>
+<Choices>=3
+<Choice>=4
+<Choice>=6
+<Choice>=5
+<Right>=1
+
+<Question>=
+Уменьши 5000 на 1. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=4000
+<Choice>=4999
+<Choice>=4990
+<Right>=2
+
+<Question>=
+На сколько увеличили число 6473, если в его записи изменилась только цифра в разряде сотен?
+
+<EndText>
+<Choices>=3
+<Choice>=на 200
+<Choice>=на 40
+<Choice>=на 600
+<Right>=1
+
+<Question>=
+Выбери четырёхзначное число, которое записано двумя различными цифрами.
+
+<EndText>
+<Choices>=3
+<Choice>=345
+<Choice>=3344
+<Choice>=3004
+<Right>=2
+
+<Question>=
+Даны числа:
+2401, 999, 1002, 54, 1042.
+Выбери из них наименьшее четырёхзначное число и увеличь его на 8 сотен. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=1802
+<Choice>=1082
+<Choice>=3201
+<Right>=1
+
+<Question>=
+Увеличь 453 на 7 тысяч. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=460
+<Choice>=523
+<Choice>=7453
+<Right>=3
+
+<Question>=
+Выбери пропущенный знак, чтобы получилась верная запись:
+2359 … 2459 – 1.
+
+<EndText>
+<Choices>=3
+<Choice>=>
+<Choice>=<
+<Choice>==
+<Right>=2

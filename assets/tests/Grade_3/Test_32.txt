@@ -1,0 +1,110 @@
+﻿<Grade>=3
+<Num>=32
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Во сколько раз надо увеличить 2 см2, чтобы получить
+2 дм2?
+
+<EndText>
+<Choices>=3
+<Choice>=в 10 раз
+<Choice>=в 100 раз
+<Choice>=в 4 раза
+<Right>=2
+
+<Question>=
+Чему равна площадь прямоугольника, если его длина 8 дм, а ширина в 4 раза меньше?
+
+<EndText>
+<Choices>=3
+<Choice>=2 дм2
+<Choice>=16 дм2
+<Choice>=32 дм2
+<Right>=2
+
+<Question>=
+Чему равна площадь квадрата, периметр которого равен
+20 см?
+
+<EndText>
+<Choices>=3
+<Choice>=5 см2
+<Choice>=80 см2
+<Choice>=25 см2
+<Right>=3
+
+<Question>=
+Величину 9 м2 уменьшили в 3 раза. Какую величину получили?
+
+<EndText>
+<Choices>=3
+<Choice>=3 дм2
+<Choice>=30 дм2
+<Choice>=300 дм2
+<Right>=3
+
+<Question>=
+Во сколько раз 4 см2 меньше, чем 4 дм2?
+
+<EndText>
+<Choices>=3
+<Choice>=в 100 раз
+<Choice>=в 10 раз
+<Choice>=в 4 раза
+<Right>=1
+
+<Question>=
+Чему равен периметр прямоугольника со сторонами 10 см и 5 см?
+
+<EndText>
+<Choices>=3
+<Choice>=50 см
+<Choice>=30 см
+<Choice>=15 см
+<Right>=2
+
+<Question>=
+Выбери величину, которую можно получить, измерив площадь комнаты.
+
+<EndText>
+<Choices>=3
+<Choice>=24 дм2
+<Choice>=20 см2
+<Choice>=9 м2
+<Right>=3
+
+<Question>=
+Выбери стороны прямоугольника, который имеет наименьшую площадь.
+
+<EndText>
+<Choices>=3
+<Choice>=3 дм и 7 см
+<Choice>=10 см и 20 см
+<Choice>=4 дм и 3 дм
+<Right>=2
+
+<Question>=
+Чему равна сторона квадрата, если его площадь 36 дм2?
+
+<EndText>
+<Choices>=3
+<Choice>=6 дм2
+<Choice>=6 дм
+<Choice>=9 дм
+<Right>=2
+
+<Question>=
+Чему равен периметр квадрата, площадь которого 81 дм2?
+
+<EndText>
+<Choices>=3
+<Choice>=36 см
+<Choice>=18 см
+<Choice>=36 дм
+<Right>=3

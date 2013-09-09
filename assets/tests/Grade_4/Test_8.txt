@@ -1,0 +1,113 @@
+﻿<Grade>=4
+<Num>=8
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Сколько знаков будет содержать значение произведения 4936 · 2?
+
+<EndText>
+<Choices>=3
+<Choice>=6 знаков
+<Choice>=5 знаков
+<Choice>=4 знака
+<Right>=3
+
+<Question>=
+На сколько меньше значение произведения 80352 · 3, чем значение произведения 82352 · 3?
+
+<EndText>
+<Choices>=3
+<Choice>=на 2000
+<Choice>=на 6000
+<Choice>=на 600
+<Right>=2
+
+<Question>=
+Верно ли равенство:
+1623 · 4 = 1000 · 4 + 600 · 4 + 20 · 4 + 3?
+
+<EndText>
+<Choices>=2
+<Choice>=да
+<Choice>=нет
+<Right>=2
+
+<Question>=
+Выбери знак, пропущенный в записи:
+42803 · 9 … 42803 · 10 – 42803.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=>
+<Choice>=<
+<Right>=1
+
+<Question>=
+Выбери цифру, пропущенную в записи:
+28017 · 6 = 168…02.
+
+<EndText>
+<Choices>=3
+<Choice>=0
+<Choice>=1
+<Choice>=4
+<Right>=2
+
+<Question>=
+Наименьшее пятизначное число увеличили в 7 раз. Какое число получили?
+
+<EndText>
+<Choices>=3
+<Choice>=700000
+<Choice>=63000
+<Choice>=70000
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+80003 · 40 … 80003 · 4 · 10.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=>
+<Choice>=<
+<Right>=1
+
+<Question>=
+Выбери значение выражения:
+(30000 + 2000 + 400 + 10 + 3) · 2.
+
+<EndText>
+<Choices>=3
+<Choice>=32413
+<Choice>=604826
+<Choice>=64826
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+9 · 1000 + 9 · 10 + 8 … 9 · 1000 + 9 · 100 + 8.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=<
+<Choice>=>
+<Right>=2
+
+<Question>=
+На сколько больше значение выражения 2024 · (10 + 2), чем значение выражения 2024 · 2?
+
+<EndText>
+<Choices>=3
+<Choice>=на 20240
+<Choice>=на 20204
+<Choice>=на 20004
+<Right>=1

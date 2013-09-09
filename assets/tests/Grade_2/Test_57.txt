@@ -1,0 +1,112 @@
+﻿<Grade>=2
+<Num>=57
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Выбери знак, пропущенный в записи:
+6 м … 573 см.
+
+<EndText>
+<Choices>=3
+<Choice>==
+<Choice>=>
+<Choice>=<
+<Right>=2
+
+<Question>=
+Отрезок длиной 14 дм уменьшили на 8 см. Какой длины получился отрезок?
+
+<EndText>
+<Choices>=3
+<Choice>=22 см
+<Choice>=6 дм
+<Choice>=132 см
+<Right>=3
+
+<Question>=
+Длина отрезка 8 см. Найди сумму длин двух таких отрезков.
+
+<EndText>
+<Choices>=3
+<Choice>=8 см
+<Choice>=16 см
+<Choice>=14 см
+<Right>=2
+
+<Question>=
+На сколько отрезок длиной 9 см короче отрезка длиной в 1 м?
+
+<EndText>
+<Choices>=3
+<Choice>=на 8 дм
+<Choice>=на 1 дм
+<Choice>=на 91 см
+<Right>=3
+
+<Question>=
+Длина одного отрезка 16 см. Найди длину другого отрезка, если она больше длины первого на 1 дм.
+
+<EndText>
+<Choices>=3
+<Choice>=26 см
+<Choice>=17 см
+<Choice>=6 см
+<Right>=1
+
+<Question>=
+Найди длину ломаной из трёх звеньев, если длина каждого звена
+5 см.
+
+<EndText>
+<Choices>=3
+<Choice>=10 см
+<Choice>=15 см
+<Choice>=20 см
+<Right>=2
+
+<Question>=
+Выбери наименьшую величину.
+
+<EndText>
+<Choices>=3
+<Choice>=25 см
+<Choice>=2 дм
+<Choice>=1 м
+<Right>=2
+
+<Question>=
+Найди сумму величин 1 дм и 6 см.
+
+<EndText>
+<Choices>=3
+<Choice>=7 дм
+<Choice>=7 см
+<Choice>=16 см
+<Right>=3
+
+<Question>=
+Найди разность величин 5 м 60 см и 8 дм.
+
+<EndText>
+<Choices>=3
+<Choice>=больше 5 м
+<Choice>=меньше 5 м
+<Choice>=480 см
+<Right>=3
+
+<Question>=
+Разгадай правило, по которому составлен ряд величин:
+1 м, 85 см, 70 см, 55 см, 4 дм, … .
+Выбери величину, которой нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=15 см
+<Choice>=2 дм
+<Choice>=25 см
+<Right>=3

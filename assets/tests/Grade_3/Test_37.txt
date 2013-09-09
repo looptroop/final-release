@@ -1,0 +1,113 @@
+﻿<Grade>=3
+<Num>=37
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Увеличь произведение чисел 60 и 3 на 30. Какое число получится?
+
+<EndText>
+<Choices>=3
+<Choice>=180
+<Choice>=93
+<Choice>=210
+<Right>=3
+
+<Question>=
+Выбери число, пропущенное в записи:
+(20 + …) : 5 = 20 : 5 + 6.
+
+<EndText>
+<Choices>=3
+<Choice>=30
+<Choice>=20
+<Choice>=35
+<Right>=1
+
+<Question>=
+Выбери знак, пропущенный в записи:
+70 : 7 … 28 : 7 + 42 : 7.
+
+<EndText>
+<Choices>=3
+<Choice>=>
+<Choice>==
+<Choice>=<
+<Right>=2
+
+<Question>=
+По какому правилу записан ряд:
+81 : 3, 27, 72 : 3, 24, 63 : 3, …?
+Выбери число, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=16
+<Choice>=18
+<Choice>=21
+<Right>=3
+
+<Question>=
+Выбери число, пропущенное в записи:
+48 : 12 < 56 : … .
+
+<EndText>
+<Choices>=3
+<Choice>=56
+<Choice>=14
+<Choice>=8
+<Right>=3
+
+<Question>=
+Выбери знаки арифметических действий, пропущенные в записи:
+(42 … 14) : 7 = 42 … 7 + 14 : 7.
+
+<EndText>
+<Choices>=3
+<Choice>=+, ·
+<Choice>=·, :
+<Choice>=+, :
+<Right>=3
+
+<Question>=
+Во сколько раз надо уменьшить 84, чтобы получить 7?
+
+<EndText>
+<Choices>=3
+<Choice>=в 12 раз
+<Choice>=в 7 раз
+<Choice>=в 14 раз
+<Right>=1
+
+<Question>=
+На сколько произведение чисел 12 и 6 больше их частного?
+
+<EndText>
+<Choices>=3
+<Choice>=на 6
+<Choice>=на 70
+<Choice>=на 12
+<Right>=2
+
+<Question>=
+Делится ли сумма чисел 45 и 32 на 9?
+
+<EndText>
+<Choices>=2
+<Choice>=да
+<Choice>=нет
+<Right>=2
+
+<Question>=
+Выбери частное с наименьшим значением.
+
+<EndText>
+<Choices>=3
+<Choice>=64 : 2
+<Choice>=64 : 4
+<Choice>=64 : 8
+<Right>=3

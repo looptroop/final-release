@@ -1,0 +1,111 @@
+﻿<Grade>=3
+<Num>=38
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+По какому правилу записан ряд выражений:
+40 : 4, 48 : 4, 56 : 4, 64 : 4, …?
+Выбери выражение, которым нужно продолжить этот ряд.
+
+<EndText>
+<Choices>=3
+<Choice>=72 + 4
+<Choice>=72 : 4
+<Choice>=72 – 8
+<Right>=2
+
+<Question>=
+Выбери частное, в котором делимое больше делителя в 3 раза.
+
+<EndText>
+<Choices>=3
+<Choice>=39 : 3
+<Choice>=26 : 13
+<Choice>=33 : 11
+<Right>=3
+
+<Question>=
+Произведение чисел 16 и 4 уменьшили в 2 раза. Выбери равенство, которое нужно записать.
+
+<EndText>
+<Choices>=3
+<Choice>=(16 + 4) : 2 = 10
+<Choice>=16 · 4 : 2
+<Choice>=16 · 4 : 2 = 32
+<Right>=3
+
+<Question>=
+Частное чисел 66 и 22 увеличили на 3. Какое число получили?
+
+<EndText>
+<Choices>=3
+<Choice>=6
+<Choice>=9
+<Choice>=47
+<Right>=1
+
+<Question>=
+Выбери делитель, если делимое – 52, частное – 4.
+
+<EndText>
+<Choices>=3
+<Choice>=56
+<Choice>=23
+<Choice>=13
+<Right>=3
+
+<Question>=
+Выбери число, которое больше, чем 17, в 4 раза.
+
+<EndText>
+<Choices>=3
+<Choice>=21
+<Choice>=68
+<Choice>=61
+<Right>=2
+
+<Question>=
+Какое число меньше, чем 84, в 42 раза?
+
+<EndText>
+<Choices>=3
+<Choice>=42
+<Choice>=21
+<Choice>=2
+<Right>=3
+
+<Question>=
+Число 12 сначала увеличили в 3 раза, а затем полученный результат уменьшили в 6 раз. Какое число получили?
+
+<EndText>
+<Choices>=3
+<Choice>=6
+<Choice>=24
+<Choice>=9
+<Right>=1
+
+<Question>=
+Выбери выражение, значение которого равно 18.
+
+<EndText>
+<Choices>=3
+<Choice>=40 – 20 : 2 + 8
+<Choice>=40 – 20 : (2 + 8)
+<Choice>=(40 – 20) : 2 + 8
+<Right>=3
+
+<Question>=
+Выбери знак, пропущенный в записи:
+(50 + 15) : 5 … 50 : 5 – 15 : 5.
+
+<EndText>
+<Choices>=3
+<Choice>=>
+<Choice>=<
+<Choice>==
+<Right>=1

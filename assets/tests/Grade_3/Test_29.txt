@@ -1,0 +1,115 @@
+﻿<Grade>=3
+<Num>=29
+<Number>=10
+<ShowRight>=1
+<Mix>=1
+<Min3>=6
+<Min4>=8
+<Min5>=10
+
+<Question>=
+Какое число пропущено в записи:
+21 : 3 + 5 · … = 52?
+
+<EndText>
+<Choices>=3
+<Choice>=7
+<Choice>=8
+<Choice>=9
+<Right>=3
+
+<Question>=
+Выбери пару выражений с одинаковыми значениями.
+
+<EndText>
+<Choices>=3
+<Choice>=7 · 8 + 4 и (65 – 9) · 4
+<Choice>=(72 – 8) · 6 и 8 · 8 · 6
+<Choice>=8 · (9 + 4) и 8 · 9 + 8 · 3
+<Right>=2
+
+<Question>=
+Найди значение выражения:
+6 + 24 : (3 + 3).
+
+<EndText>
+<Choices>=3
+<Choice>=5
+<Choice>=10
+<Choice>=13
+<Right>=2
+
+<Question>=
+Выбери выражение, которое имеет наименьшее значение.
+
+<EndText>
+<Choices>=3
+<Choice>=40 : (4 – 2) + 8
+<Choice>=40 : 4 – (2 + 8)
+<Choice>=40 : 4 – 2 + 8
+<Right>=2
+
+<Question>=
+Выбери выражение, значение которого равно 0.
+
+<EndText>
+<Choices>=3
+<Choice>=7 · (72 : 9) : 56
+<Choice>=42 : 7 · 0 : 1
+<Choice>=6 · 6 – 5 · 0
+<Right>=2
+
+<Question>=
+Выбери знак арифметического действия, пропущенный в записи:
+6 · (9 – 4) … 7 = 210.
+
+<EndText>
+<Choices>=3
+<Choice>=+
+<Choice>=–
+<Choice>=∙
+<Right>=3
+
+<Question>=
+Выбери арифметическое действие, которое нужно выполнить последним, чтобы найти значение выражения:
+20 + (16 – 7) · 8.
+
+<EndText>
+<Choices>=3
+<Choice>=умножение
+<Choice>=сложение
+<Choice>=вычитание
+<Right>=2
+
+<Question>=
+Выбери арифметическое действие, которое нужно выполнить вторым, чтобы найти значение выражения
+24 + 12 : (7 – 3).
+
+<EndText>
+<Choices>=3
+<Choice>=сложение
+<Choice>=вычитание
+<Choice>=деление
+<Right>=3
+
+<Question>=
+Выбери число, пропущенное в записи:
+9 · 4 + 18 = 9 · 4 + 9 · … .
+
+<EndText>
+<Choices>=3
+<Choice>=1
+<Choice>=2
+<Choice>=4
+<Right>=2
+
+<Question>=
+Выбери число, пропущенное в записи:
+… + 9 · 7 < 8 · 8.
+
+<EndText>
+<Choices>=3
+<Choice>=8
+<Choice>=1
+<Choice>=0
+<Right>=3
